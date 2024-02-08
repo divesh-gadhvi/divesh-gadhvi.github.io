@@ -131,11 +131,11 @@ import {
       iconBg: "#E6DEDD",
       date: "October 2020 - June 2022",
       points: [
-        "Played a key role in the collaborative development and implementation of highly scalable internet banking solutions for various multinational banks in Africa, using various technologies like JAVA, Node.js, SQL, and web technologies like HTML5, CSS3, and JavaScript to enhance user experiences for millions of users.",
-        "Performed impact analysis, wrote high-quality code, and conducted unit level to system integration testing of various system features, ensuring a 95% defect-free software release.",
-        "Partnered with cross-functional teams and delegated as a full-stack developer to assist with the development of 50+ customizations based on the client specifications.",
-        "Successfully resolved 60% of reported issues and played a vital role in meeting project deadlines. Achieved over 25% performance enhancement by resolving defects and bottlenecks, optimizing application efficiency and user experience.",
-        "Efficiently debugged mobile applications for iOS and Android platforms and implementing targeted enhancements leading to a 25% improvement in user engagement and a 15% boost in user satisfaction ratings across multiple projects."
+        "Played a key role in the collaborative development and implementation of highly scalable internet banking solutions for various multinational banks in Africa, leveraging technologies like JAVA, Node.js, SQL, and web technologies like HTML5, CSS3, and JavaScript to enhance user experiences for millions of users",
+        "Achieved a remarkable 95% defect-free software release through meticulous impact analysis, high-quality code writing, and unit-level to system integration testing of various system features",
+        "Partnered with cross-functional teams as a full-stack developer to develop 50+ customizations based on client specifications, significantly enhancing the application's versatility",
+        "Successfully resolved 80% of reported issues and played a vital role in meeting project deadlines. Achieved over 25% performance enhancement by resolving defects and bottlenecks, optimizing application efficiency and user experience",
+        "Effectively managed complex SQL databases customized for generating diverse bank reports, implementing optimized queries to reduce report generation time by 25%, ensuring efficient extraction of relevant data for comprehensive and timely reports"
       ],
     },
     {
@@ -145,7 +145,7 @@ import {
       iconBg: "#383E56",
       date: "September 2022 - December 2023",
       points: [
-        "GPA: 3.85/4.00"
+        "GPA: 3.8/4.00"
       ],
     },
     {
@@ -155,10 +155,11 @@ import {
       iconBg: "#E6DEDD",
       date: "June 2023 - August 2023",
       points: [
-        "Developing and maintaining React-based web applications and React Native-based mobile applications, leveraging industry best practices to enhance user interfaces and deliver exceptional user experiences.",
-        "Actively collaborating with a team of experienced software engineers, participating in code reviews, debugging, and testing, leading to a 15% reduction in software defects and ensuring the delivery of high-quality software products on schedule.",
-        "Integrated and secured API endpoints using Auth0 authentication and authorization services, ensuring robust security measures and protecting sensitive user data.",
-        "Conducted API testing using Postman, resulting in a 25% decrease in backend service-related issues and bugs, ensuring the reliability and functionality of the APIs and maintaining high-quality standards for the software product.",
+        "Developed and maintained React-based web applications and React Native-based mobile applications within a dynamic startup environment, leveraging industry best practices to enhance user interfaces and deliver exceptional user experiences",
+        "Collaborated actively with a team of experienced software engineers, participating in code reviews, debugging, and testing, leading to a 15% reduction in software defects and ensuring the timely delivery of high-quality software products",
+        "Integrated and secured 500+ API endpoints using Auth0 authentication and authorization services, ensuring the application’s security measures and safeguarding sensitive user data",
+        "Executed comprehensive API testing using Postman, resulting in a 25% decrease in backend service-related issues and bugs, ensuring the reliability and functionality of the APIs and maintaining high-quality standards for the software product",
+        "Contributed significantly to the full software development lifecycle (SDLC), overseeing research, design, testing, and implementation. Led iterative development, reducing delivery time by 20% and seamlessly integrating new functionality",
       ],
     },
   ];
