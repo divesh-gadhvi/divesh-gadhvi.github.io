@@ -23,13 +23,12 @@ const ProjectCard = ({
         speed: 450,
       }}
       className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
-      style={{ height: '685px' }}
     >
-      <div className="relative w-full h-[150px] flex items-center justify-center">
+      <div className="relative w-full h-[230px]">
         <img
           src={image}
           alt={image}
-          className="object-contain rounded-2xl max-h-full"
+          className="w-full h-full object-cover rounded-2xl"
         />
         <div className="absolute inset-0 flex justify-end m-3 card-image_hover">
           <div
@@ -39,7 +38,7 @@ const ProjectCard = ({
             <img
               src={github}
               alt="github"
-              className="w-1/2 h-1/2 object-contain"
+              className="w-1/2 h-1/2 oject-contain"
             />
           </div>
         </div>
@@ -80,7 +79,7 @@ const Works = () => {
         </motion.p>
       </div>
 
-      <div className="mt-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7">
+      <div className="mt-20 flex flex-warp gap-7">
         {projects.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
