@@ -50,13 +50,13 @@ const About = () => {
           seamless user experiences that captivate and immerse.
           <br></br>
           <br></br>
-          From React-based web apps to React Native-based mobile apps, I've
-          contributed significantly to enhancing user interfaces and delivering
+          From React-based web applications to robust backend systems, I have made
+          significant contributions to enhancing user interfaces and delivering 
           exceptional user experiences. My tenure at Oracle was marked by
           pivotal contributions to scalable internet banking solutions for
-          global banks, harnessing a blend of technologies like JAVA, Node.js,
-          SQL, and frontend tools such as HTML5, CSS3, and JavaScript. I thrive
-          as a relentless problem solver, constantly seeking out novel
+          global banks, harnessing a blend of technologies like Java/J2EE, Python, 
+          Node.js, SQL, and frontend tools such as HTML5, CSS3, JavaScript, and Angular. 
+          I thrive as a relentless problem solver, constantly seeking out novel
           challenges that encourage me to push boundaries. Combining technical
           excellence with collaborative teamwork, I bring proactive
           problem-solving skills to every project, making me a Full Stack
