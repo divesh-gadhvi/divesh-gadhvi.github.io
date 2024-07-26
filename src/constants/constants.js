@@ -92,177 +92,54 @@ const technologies = [
   {
     name: "Java",
     icon: java,
-    category: "Languages & Frameworks"
-  },
-  {
-    name: "JDBC",
-    icon: jdbc,
-    category: "Languages & Frameworks"
-  },
-  {
-    name: "Spring",
-    icon: spring,
-    category: "Languages & Frameworks"
   },
   {
     name: "Springboot",
     icon: springboot,
-    category: "Languages & Frameworks"
   },
   {
     name: "Python",
     icon: python,
-    category: "Languages & Frameworks"
-  },
-  {
-    name: "Django",
-    icon: django,
-    category: "Languages & Frameworks"
-  },
-  {
-    name: "Flask",
-    icon: flask,
-    category: "Languages & Frameworks"
   },
   {
     name: "Node JS",
     icon: nodejs,
-    category: "Languages & Frameworks"
   },
   {
     name: "HTML",
     icon: html,
-    category: "Web Technologies"
   },
   {
     name: "CSS",
     icon: css,
-    category: "Web Technologies"
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-    category: "Web Technologies"
   },
   {
     name: "JavaScript",
     icon: javascript,
-    category: "Languages & Frameworks"
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-    category: "Languages & Frameworks"
   },
   {
     name: "React JS",
     icon: reactjs,
-    category: "Web Technologies"
-  },
-  {
-    name: "Angular",
-    icon: angular,
-    category: "Web Technologies"
-  },
-  {
-    name: "XML/XSLT",
-    icon: xml,
-    category: "Web Technologies"
   },
   {
     name: "GraphQL",
     icon: graphql,
-    category: "Web Technologies"
-  },
-  {
-    name: "JSON",
-    icon: json,
-    category: "Web Technologies"
-  },
-  {
-    name: "AJAX",
-    icon: ajax,
-    category: "Web Technologies"
-  },
-  {
-    name: "Material UI",
-    icon: materialui,
-    category: "Web Technologies"
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-    category: "Web Technologies"
   },
   {
     name: "MySQL",
     icon: mysql,
-    category: "Databases"
   },
   {
     name: "PostgreSQL",
     icon: postgresql,
-    category: "Databases"
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-    category: "Databases"
-  },
-  {
-    name: "Oracle SQL",
-    icon: oraclesql,
-    category: "Databases"
-  },
-  {
-    name: "Linux",
-    icon: linux,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "Eclipse",
-    icon: eclipse,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "Android Studio",
-    icon: androidstudio,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "Figma",
-    icon: figma,
-    category: "Tools & Platforms"
   },
   {
     name: "AWS",
     icon: aws,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "Jenkins",
-    icon: jenkins,
-    category: "Tools & Platforms"
   },
   {
     name: "Docker",
     icon: docker,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "Kubernetes",
-    icon: kubernetes,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "Postman",
-    icon: postman,
-    category: "Tools & Platforms"
-  },
-  {
-    name: "GIT",
-    icon: git,
-    category: "Tools & Platforms"
   },
 ];
 
@@ -329,7 +206,7 @@ const experiences = [
       "GPA: 3.34/4.00",
       "Coursework: Circuit Theory and Networks, Electronic Devices and Circuits, Microprocessor and Peripherals Interfacing, Microcontrollers and Applications, Optical Communications, Computer Communication Network "
     ],
-  }
+  },
 ];
 
 const projects = [
